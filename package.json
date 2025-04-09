@@ -1,5 +1,5 @@
 {
-  "name": "react-edtech-morning",
+  "name": "edtech-react-eve",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,18 +7,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "postinstall": "flowbite-react patch"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.17",
-    "axios": "^1.8.4",
-    "flowbite-react": "^0.11.5",
-    "lucide-react": "^0.486.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.4.0",
-    "react-toastify": "^11.0.5",
     "tailwindcss": "^4.0.17"
   },
   "devDependencies": {
